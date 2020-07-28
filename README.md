@@ -1,4 +1,3 @@
-# Web_Scraping_with_bSoup
-Introduction to Web Scraping with Beautiful Soup
+## Introduction to Web Scraping with Beautiful Soup
 
-### http://quotes.toscrape.com/ used for extraction
+### http://quotes.toscrape.com/ is used as the website for the extraction
